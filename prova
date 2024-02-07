@@ -1,0 +1,4 @@
+<?php
+echo ("Hola este es mi código de ejemplo")
+?>
+
